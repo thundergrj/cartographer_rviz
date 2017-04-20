@@ -23,7 +23,7 @@ Purpose
 
 `Cartographer`_ is a system that provides real-time simultaneous localization
 and mapping (`SLAM`_) in 2D and 3D across multiple platforms and sensor
-configurations. This project provides Cartographer's (`RViz`_) integration.
+configurations. This project provides Cartographer's `RViz`_ integration.
 
 .. _Cartographer: https://github.com/googlecartographer/cartographer
 .. _SLAM: https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
